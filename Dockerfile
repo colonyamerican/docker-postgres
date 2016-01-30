@@ -1,4 +1,4 @@
-FROM mdillon/postgis:9.4
+FROM mdillon/postgis:9.5
 
 ENV PGDATA /data
 VOLUME /data
